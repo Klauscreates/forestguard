@@ -6,3 +6,9 @@ dist/
 .DS_Store
 *.log
 .vercel
+.vite
+dist-ssr/
+*.local
+apa_shape/
+apa_triunfo_do_xingu.zip
+tmp_bra_adm2.geojson
