@@ -4,6 +4,12 @@
 
 > "ForestGuard helps Amazon decouple business growth from environmental impact by automating the prevention of high-risk procurement before it hits the ledger."
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Klauscreates/forestguard&env=AWS_ACCESS_KEY_ID,AWS_SECRET_ACCESS_KEY,AWS_REGION,BEDROCK_MODEL_ID,GEMINI_API_KEY,GFW_API_KEY&envDescription=API%20keys%20required%20to%20run%20ForestGuard&envLink=https://github.com/Klauscreates/forestguard/blob/main/.env.template&project-name=forestguard&repository-name=forestguard)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-forestguard-22c55e?style=flat&logo=vercel)](https://techpartnerapp.base44.app/ForestGuard)
+[![GitHub](https://img.shields.io/github/last-commit/Klauscreates/forestguard?color=22c55e)](https://github.com/Klauscreates/forestguard)
+
+
+
 ---
 
 ## 🌍 The Problem
